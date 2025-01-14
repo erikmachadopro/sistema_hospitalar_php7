@@ -13,7 +13,6 @@
 		<!--REFERENCIA PARA O FAVICON -->
 		<link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="img/favicon/favicon2.ico" type="image/x-icon">
-
 	</head>
 	<body>
 

@@ -58,7 +58,6 @@ body{
 
 .login-form .btn{
 	font-size:16px;
-	
 	background:#4073ac;
 	border:none;
 	margin-bottom:20px;
@@ -67,7 +66,6 @@ body{
 .login-form .btn:hover, .login-form .btn:focus{
 	background:#426286;
 	outline: none !important;
-	
 }
 
 .login-form input[type="checkbox"]{
@@ -79,7 +77,6 @@ body{
 	text-decoration:none;
 }
 
-.login-form form a:hover{
-	
+.login-form form a:hover{	
 	text-decoration:underline;
 }
