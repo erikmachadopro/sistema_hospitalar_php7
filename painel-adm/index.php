@@ -69,7 +69,7 @@ if(@$_GET['acao'] == $item1){
 						<a class="nav-link <?php echo $item2ativo ?>"  id="link-medicos"  href="index.php?acao=<?php echo $item2 ?>" role="tab" aria-controls="v-pills-profile"  aria-selected="false"><i class="fas fa-user-md mr-1"></i>Cadastro de Médicos</a>
 						<a class="nav-link <?php echo $item3ativo ?>" id="v-pills-messages-tab"  href="index.php?acao=<?php echo $item3 ?>" role="tab" aria-controls="v-pills-messages" aria-selected="false"><i class="far fa-user mr-1"></i>Cadastro de Funcionários</a>
 						<?php 	if($notificacoes > 0){ ?>
-							<a class="nav-link <?php echo $item4ativo ?>" id="v-pills-messages-tab"  href="index.php?acao=<?php echo $item4 ?>" role="tab" aria-controls="v-pills-messages" aria-selected="false"><i class="far fa-user mr-1"></i>Notificações</a>
+							<a class="nav-link <?php echo $item4ativo ?>" id="v-pills-messages-tab"  href="index.php?acao=<?php echo $item4 ?>" role="tab" aria-controls="v-pills-messages" aria-selected="false"><i class="fas fa-exclamation-triangle mr-1"></i>Notificações</a>
 						<?php 	} ?>
 					</div>
 				</div>
