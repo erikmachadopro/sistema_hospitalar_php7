@@ -22,6 +22,23 @@
                 <div class="logo">
                     <img src="img/logo.jpg" alt="Logo Sistema Hospitalar">
                 </div>
+                <h2 class="text-center">Acesso ao Sistema</h2>
+                <div class="form-group">
+                    <input class="form-control" type="email" class="usuario" placeholder="Ensira seu e-mail" required="required">
+                </div>
+                <div class="form-group">
+                    <input class="form-control" type="password" name="senha" placeholder="Senha" required="required">
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary btn-lg btn-block">Entrar</button>
+                </div>
+                <div class="clearfix">
+                    <label type="pull-left  checkbox-inline">
+                        Lembrar-me
+                    </label>
+                    <a href="#" class="pull-right">Esqueceu a senha?</a>
+                    <input type="checkbox">
+                </div>
             </form>
        </div>  
     </body>
