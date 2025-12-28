@@ -72,21 +72,10 @@ body{
     margin-top: 2px;
 }
 
-.login-form a{
-    color:#8d8d8d;
-    text-decoration: underline;
-}
-
-.login-form a:hover{
-    color: 4a0a0a;
-    text-decoration: none;
-}
-
 .login-form form a{
     color: #7a7a7a;
     text-decoration: none;
-}
-
+ 
 .login-form form a:hover{
     color: #7a7a7a;
     text-decoration: underline;

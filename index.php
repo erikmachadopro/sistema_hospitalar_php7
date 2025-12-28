@@ -33,10 +33,10 @@
                     <button type="submit" class="btn btn-primary btn-lg btn-block">Entrar</button>
                 </div>
                 <div class="clearfix">
-                    <label type="pull-left  checkbox-inline">
+                    <label type="float-left  checkbox-inline">
                         Lembrar-me
                     </label>
-                    <a href="#" class="pull-right">Esqueceu a senha?</a>
+                    <a href="#" class="float-right">Esqueceu a senha?</a>
                     <input type="checkbox">
                 </div>
             </form>
