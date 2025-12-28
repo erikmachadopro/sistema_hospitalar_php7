@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ept-br">
+<html lang="pt-br">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,6 +17,12 @@
 
     </head>
     <body>
-        
+       <div class="login-form">
+            <form action="" method="post">
+                <div class="logo">
+                    <img src="img/logo.jpg" alt="Logo Sistema Hospitalar">
+                </div>
+            </form>
+       </div>  
     </body>
 </html>
